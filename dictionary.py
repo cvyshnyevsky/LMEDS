@@ -1,0 +1,1 @@
+open("dictionary.txt", "w")
